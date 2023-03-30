@@ -1,2 +1,4 @@
 # Food-Recipes-web-app
-Web app integrated with spoonacular API to search for recipes and show all the ingredients.
+# Install
+1. Run `npm install` to install dependencies
+2. Run `npm run dev` in the terminal
